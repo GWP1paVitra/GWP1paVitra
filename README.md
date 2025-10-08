@@ -1,18 +1,18 @@
 # Hi, I'm Pavitra
 
 I'm a Beginner Python Developer, Bot Developer, and Web Development Learner.  
-I enjoy learning by building real projects, experimenting with new tools, and working on things that make the internet a little more interesting.
+I love coding and enjoy turning ideas into real projects. For me, coding isn’t just about writing lines of code — it’s about building something that works, improves, and grows over time. I’m always curious to learn more and get better at what I do.
 
 ## About Me
-- Learning: Web Development, AI, and also preparing for IIT JEE  
+- Currently learning Web Development and AI, while also preparing for IIT JEE  
 - Tech Stack: Python and HTML  
-- Interests: Security Tools, Websites, Games  
-- Open to collaboration on exciting and challenging projects
+- Interested in creating security tools, websites, and games  
+- Always open to collaborate on meaningful and challenging projects
 
-## Currently Exploring
+## What I'm Exploring
 - Web Development fundamentals and frameworks  
-- AI concepts and their applications in automation  
-- Building better bots and tools with Python
+- AI and its applications in automation  
+- Building smarter and more efficient bots using Python
 
 ## Contact
 - Discord: `x465`  
@@ -26,9 +26,4 @@ I enjoy learning by building real projects, experimenting with new tools, and wo
 > “Building things that make the internet cooler.”
 
 ## Fun Fact
-I debug better at 2 AM than during the day.
-
-<!---
-GWP1paVitra/GWP1paVitra is a special repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I tend to write my best code late at night when everything’s quiet.
