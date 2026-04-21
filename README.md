@@ -1,4 +1,4 @@
-# Hi, I'm Pradumn
+# Hi, I'm Pavitra
 
 I'm a Beginner Python Developer, Bot Developer, and Web Development Learner.  
 I love coding and enjoy turning ideas into real projects. For me, coding isn’t just about writing lines of code — it’s about building something that works, improves, and grows over time. I’m always curious to learn more and get better at what I do.
